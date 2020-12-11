@@ -32,8 +32,8 @@ You are now ready to test your theme - only you have to now create a product and
 
 # Pendings
 There are still some things to fix though
-I was going to add a metafields plugin on shopify admin to enable me extend the fields of the product to accomodate all other fileds not catered for by Shopify. 
+I was going to add a metafields plugin on shopify admin to enable me extend the fields of the product to accomodate all other fields not catered for by Shopify. 
 
-I would have also look for and install a plugin to manage the reviews and then create a section to display that.
+I would have also looked for and installed a plugin to manage the reviews and then create a section to display that.
  
 
